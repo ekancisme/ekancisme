@@ -60,22 +60,28 @@ currently_building: LexiGrow
 
 ### 🌿 [LexiGrow](https://github.com/ekancisme/lexigrow)
 
-AI-powered English learning platform built around a focused micro-learning loop. It evaluates writing, measures lexical diversity, recommends vocabulary and turns progress into an interactive learning journey.
+AI-powered platform for learning English through context.<br />
+It evaluates writing and recommends vocabulary with AI.<br />
+Progress becomes an interactive learning journey.
 
-`React 19` `Node.js` `Express` `MongoDB` `Gemini AI` `OAuth/JWT` `3D Flashcards`
+`React 19` `Node.js` `Express` `MongoDB`<br />
+`Gemini AI` `OAuth/JWT` `3D Flashcards`
 
-[![LexiGrow project card](./assets/lexigrow-card.svg)](https://github.com/ekancisme/lexigrow)
+<a href="https://github.com/ekancisme/lexigrow"><img width="100%" src="./assets/lexigrow-card.svg" alt="LexiGrow project card" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚘 [Drivon](https://github.com/ekancisme/drivon)
 
-Full car-rental management platform with Admin, Owner and Customer roles, real-time messaging, automated contract PDFs, revenue analytics and a relational schema with 30+ tables.
+Full car-rental platform for Admin, Owner and Customer.<br />
+It adds real-time chat, PDF contracts and analytics.<br />
+Its relational data model includes more than 30 tables.
 
-`Java 17` `Spring Boot 3` `Spring Security` `React` `MySQL` `WebSocket` `Google OAuth`
+`Java 17` `Spring Boot 3` `Spring Security` `React`<br />
+`MySQL` `WebSocket` `Google OAuth`
 
-[![Drivon project card](./assets/drivon-card.svg)](https://github.com/ekancisme/drivon)
+<a href="https://github.com/ekancisme/drivon"><img width="100%" src="./assets/drivon-card.svg" alt="Drivon project card" /></a>
 
 </td>
 </tr>
