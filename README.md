@@ -87,44 +87,12 @@ Its relational data model includes more than 30 tables.
 </tr>
 </table>
 
-## 📡 Live GitHub telemetry
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekancisme&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekancisme&theme=github" />
-  <img height="180" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekancisme&theme=tokyonight" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekancisme&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekancisme&theme=github" />
-  <img height="180" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekancisme&theme=tokyonight" />
-</picture>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ekancisme&theme=tokyonight&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&card_width=720)](https://git.io/streak-stats)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekancisme&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekancisme&theme=github" />
-  <img alt="GitHub contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekancisme&theme=tokyonight" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekancisme/ekancisme/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekancisme/ekancisme/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ekancisme/ekancisme/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ## 🏆 Achievements unlocked
 
 <div align="center">
 
 ![Career achievements](./assets/achievements.svg)
-
-![3D contribution calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
