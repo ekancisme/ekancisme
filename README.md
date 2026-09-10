@@ -86,14 +86,14 @@ Full car-rental management platform with Admin, Owner and Customer roles, real-t
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekancisme&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ekancisme&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=default" />
-  <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=ekancisme&show_icons=true&hide_border=true&theme=tokyonight" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekancisme&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekancisme&theme=github" />
+  <img height="180" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekancisme&theme=tokyonight" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ekancisme&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ekancisme&layout=compact&langs_count=8&hide_border=true&theme=default" />
-  <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekancisme&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekancisme&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekancisme&theme=github" />
+  <img height="180" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekancisme&theme=tokyonight" />
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ekancisme&theme=tokyonight&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&card_width=720)](https://git.io/streak-stats)
