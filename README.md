@@ -98,7 +98,11 @@ Full car-rental management platform with Admin, Owner and Customer roles, real-t
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ekancisme&theme=tokyonight&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&card_width=720)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ekancisme&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f8fafc&area=true&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekancisme&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekancisme&theme=github" />
+  <img alt="GitHub contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekancisme&theme=tokyonight" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekancisme/ekancisme/output/github-contribution-grid-snake-dark.svg" />
@@ -112,25 +116,11 @@ Full car-rental management platform with Admin, Owner and Customer roles, real-t
 
 <div align="center">
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=ekancisme&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Career achievements](./assets/achievements.svg)
 
 ![3D contribution calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-
-## 🧭 Journey
-
-```mermaid
-timeline
-    title Building software with curiosity
-    2022 : Started Software Engineering at FPT University
-    2024 : Web Design for Everybody certification
-    2025 : Built Drivon full-stack platform
-         : Frontend internship at FPT Software
-         : Software Development Lifecycle certification
-    2026 : Building LexiGrow with React, Node.js and Gemini AI
-         : Exploring creative 3D web experiences
-```
 
 ## 🐍 Contribution arcade
 
