@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ltcuong24.id.vn-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ltcuong24.id.vn)
 [![Email](https://img.shields.io/badge/Email-lethecuong2k4%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethecuong2k4@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ekancisme?style=for-the-badge&logo=github&label=Followers&color=0EA5E9)](https://github.com/ekancisme?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=ekancisme&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
