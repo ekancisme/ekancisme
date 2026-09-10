@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=650&color=7C3AED&center=true&vCenter=true&repeat=true&width=760&lines=Full-stack+Developer;React+%2B+Next.js+%2B+Spring+Boot;AI-powered+Web+Experiences;3D+Interfaces+%26+Creative+Engineering;Building+useful+products%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ltcuong24.id.vn-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ltcuong24.id.vn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ltcuong24.io.vn-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ltcuong24.io.vn)
 [![Email](https://img.shields.io/badge/Email-lethecuong2k4%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethecuong2k4@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ekancisme?style=for-the-badge&logo=github&label=Followers&color=0EA5E9)](https://github.com/ekancisme?tab=followers)
 
