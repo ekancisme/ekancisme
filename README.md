@@ -64,7 +64,7 @@ AI-powered English learning platform built around a focused micro-learning loop.
 
 `React 19` `Node.js` `Express` `MongoDB` `Gemini AI` `OAuth/JWT` `3D Flashcards`
 
-[![LexiGrow repo](https://github-readme-stats.vercel.app/api/pin/?username=ekancisme&repo=lexigrow&theme=tokyonight&hide_border=true&border_radius=14)](https://github.com/ekancisme/lexigrow)
+[![LexiGrow project card](./assets/lexigrow-card.svg)](https://github.com/ekancisme/lexigrow)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ Full car-rental management platform with Admin, Owner and Customer roles, real-t
 
 `Java 17` `Spring Boot 3` `Spring Security` `React` `MySQL` `WebSocket` `Google OAuth`
 
-[![Drivon repo](https://github-readme-stats.vercel.app/api/pin/?username=ekancisme&repo=drivon&theme=tokyonight&hide_border=true&border_radius=14)](https://github.com/ekancisme/drivon)
+[![Drivon project card](./assets/drivon-card.svg)](https://github.com/ekancisme/drivon)
 
 </td>
 </tr>
